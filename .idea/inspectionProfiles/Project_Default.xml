@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="20">
+            <item index="0" class="java.lang.String" itemvalue="readme-renderer" />
+            <item index="1" class="java.lang.String" itemvalue="traitlets" />
+            <item index="2" class="java.lang.String" itemvalue="scipy" />
+            <item index="3" class="java.lang.String" itemvalue="jupyter-core" />
+            <item index="4" class="java.lang.String" itemvalue="pyloco" />
+            <item index="5" class="java.lang.String" itemvalue="SimpleWebSocketServer" />
+            <item index="6" class="java.lang.String" itemvalue="matplot" />
+            <item index="7" class="java.lang.String" itemvalue="jupyter-highlight-selected-word" />
+            <item index="8" class="java.lang.String" itemvalue="jupyter-latex-envs" />
+            <item index="9" class="java.lang.String" itemvalue="sklearn" />
+            <item index="10" class="java.lang.String" itemvalue="ipython" />
+            <item index="11" class="java.lang.String" itemvalue="jupyter-contrib-core" />
+            <item index="12" class="java.lang.String" itemvalue="jupyter-client" />
+            <item index="13" class="java.lang.String" itemvalue="prometheus-client" />
+            <item index="14" class="java.lang.String" itemvalue="jupyter-nbextensions-configurator" />
+            <item index="15" class="java.lang.String" itemvalue="pandas" />
+            <item index="16" class="java.lang.String" itemvalue="jupyter-console" />
+            <item index="17" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="18" class="java.lang.String" itemvalue="ushlex" />
+            <item index="19" class="java.lang.String" itemvalue="jupyter-contrib-nbextensions" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
